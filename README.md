@@ -26,7 +26,7 @@ This Python application checks if your public IP address has changed, and if so,
 # Email and SMTP Credentials
 SENDER_EMAIL=hello@demomailtrap.com
 SENDER_PASSWORD=your_mailtrap_api_key_here  # Replace with your Mailtrap API key
-RECEIVER_EMAIL=snuggerg@gmail.com  # Replace with your email address
+RECEIVER_EMAIL=test@gmail.com  # Replace with your email address
 
 # SMTP Server Configuration
 SMTP_SERVER=live.smtp.mailtrap.io
