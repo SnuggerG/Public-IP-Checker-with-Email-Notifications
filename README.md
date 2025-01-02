@@ -65,7 +65,7 @@ Menu:
 2 - Start/Stop IP Check Loop (Every 10 seconds)
 9 - Exit
 Enter your choice: 1
-Email sent successfully to snuggerg@gmail.com.
+Email sent successfully to test@gmail.com.
 ```
 
 ## How It Works
