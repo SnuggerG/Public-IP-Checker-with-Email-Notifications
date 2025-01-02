@@ -1,11 +1,4 @@
 # Public-IP-Checker-with-Email-Notifications
-Certainly! Below are the `README.md` and `requirements.txt` files you can include in your project.
-
-### **README.md**
-
-
-# Public IP Checker with Email Notifications
-
 This Python application checks if your public IP address has changed, and if so, it sends an email notification with the new IP address. Additionally, the program allows you to send a test email and start/stop the IP checking loop.
 
 ## Features
